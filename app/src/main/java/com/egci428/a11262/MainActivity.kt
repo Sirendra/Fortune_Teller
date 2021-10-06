@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
                 "\t".repeat(15) +
                 "Fortune Cookies</font>"))
 
-
         val adapter =myCustomAdapter()
         wishArray.add("You're Lucky")
         wishArray.add("You will get A")
